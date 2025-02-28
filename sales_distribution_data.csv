@@ -1,0 +1,501 @@
+DATE,CUSTOMER_NAME,PRODUCT,UNIT_PRICE ($),QUANTITY,Target,SALES,COUNTRY,REGION
+20/6/24,Teresa Moore,Laptop,885.02,6,5310.12,5310.12,Canada,North America
+19/4/24,Amber Morton,Headphones,286.34,2,455.82,572.68,Canada,North America
+12/12/24,Brian Stanley,Monitor,621.91,10,6219.1,6219.1,Australia,Oceania
+28/1/24,Ryan Berg,Printer,216.92,9,1952.28,1952.28,China,Asia
+4/7/24,Jason Buck,Monitor,683.79,10,6005.03,6837.9,France,Europe
+10/5/24,Randy Chang,Monitor,358.64,8,1611.51,2869.12,Canada,North America
+12/8/24,Jessica Aguilar,Camera,999.84,5,4999.2,4999.2,Germany,Europe
+28/11/24,Edgar Hudson,Monitor,697.24,7,4880.68,4880.68,France,Europe
+5/4/24,Sharon Brown,Monitor,589.17,10,7151.7,5891.7,France,Europe
+4/5/24,Jacob Fry,Camera,570.43,5,3986.41,2852.15,Germany,Europe
+4/1/24,Heather Holland,Tablet,380.17,8,3503.16,3041.36,Germany,Europe
+9/7/24,Robert Barnes,Smartphone,398.43,2,796.86,796.86,Brazil,South America
+11/9/24,Michelle Morrison,Monitor,293.1,7,1609.1,2051.7,Germany,Europe
+19/3/24,Maria Singh,Printer,394.99,7,2764.93,2764.93,China,Asia
+4/6/24,Shawn Dillon,Laptop,1445.09,10,16075.66,14450.9,India,Asia
+13/1/24,Melanie Ryan,Headphones,194.42,7,1360.94,1360.94,France,Europe
+5/5/24,Heidi Chase,Printer,294.38,1,167.4,294.38,Germany,Europe
+23/11/24,Peggy Hoffman,Tablet,492.97,8,2146.3,3943.76,Australia,Oceania
+14/12/24,Melissa Clark,Tablet,519.5,1,519.5,519.5,China,Asia
+31/3/24,Thomas Gonzalez,Headphones,262.81,2,721.88,525.62,USA,North America
+20/9/24,Gabrielle Williams,Monitor,612.4,3,2596.6,1837.2,Brazil,South America
+2/7/24,Ryan Wood,Smartwatch,258.49,10,1486.67,2584.9,China,Asia
+1/9/24,Stephen Greer,Smartphone,778.06,2,1556.12,1556.12,Germany,Europe
+26/8/24,Alicia Davis,Smartphone,593.37,6,2172.16,3560.22,France,Europe
+14/9/24,Rebecca Sharp,Monitor,452.04,9,4068.36,4068.36,Germany,Europe
+22/7/24,Dylan Mckinney,Tablet,412.59,3,1767.79,1237.77,Canada,North America
+15/1/24,Gary Ruiz,Smartwatch,151.74,7,1590.33,1062.18,China,Asia
+1/3/24,Gail Houston,Camera,1024.04,3,4607.68,3072.12,Germany,Europe
+11/3/24,Pamela Peterson,Tablet,302.05,5,1299.12,1510.25,Germany,Europe
+21/2/24,Jo Sanchez,Headphones,255.89,7,1791.23,1791.23,USA,North America
+30/7/24,Kristen Duncan,Smartwatch,363.47,8,4345.45,2907.76,Australia,Oceania
+16/6/24,Gerald Ross,Tablet,568.08,9,5112.72,5112.72,USA,North America
+24/1/24,Angie Ross,Smartphone,457.72,2,1367.35,915.44,India,Asia
+7/10/24,John Velazquez,Laptop,966.52,1,1426.82,966.52,Canada,North America
+25/4/24,Mr. Shawn Scott,Monitor,308.92,4,1105.47,1235.68,Canada,North America
+16/5/24,Amanda White,Camera,638.13,10,6381.3,6381.3,India,Asia
+28/6/24,Michael Scott,Monitor,595.94,3,1787.82,1787.82,France,Europe
+16/2/24,Catherine Dominguez,Camera,758.16,5,3790.8,3790.8,China,Asia
+1/9/24,Connie Randall,Monitor,547.83,8,4382.64,4382.64,USA,North America
+8/5/24,Devon Williams,Laptop,1332.88,1,1332.88,1332.88,China,Asia
+14/8/24,Alexander Figueroa,Camera,506.16,5,1698.94,2530.8,Canada,North America
+20/4/24,Brian Long,Laptop,1470.22,6,7415.87,8821.32,Canada,North America
+11/8/24,Melissa Lynch,Headphones,163.21,6,1214.71,979.26,USA,North America
+10/7/24,Michael Figueroa,Printer,165,10,1650,1650,Canada,North America
+2/10/24,Michael Henderson,Smartwatch,256.78,3,770.34,770.34,USA,North America
+1/10/24,Julia Christensen,Smartphone,347.17,10,3471.7,3471.7,China,Asia
+5/7/24,Kimberly Valentine MD,Smartwatch,269.09,3,807.27,807.27,Brazil,South America
+11/2/24,Cassandra Martinez,Monitor,418.66,5,2093.3,2093.3,France,Europe
+1/6/24,Edward Valentine,Headphones,64.21,2,157.12,128.42,India,Asia
+30/9/24,Frederick Carson,Monitor,499.73,8,5223.78,3997.84,India,Asia
+28/12/24,Gabriel Alexander,Monitor,248.6,8,1240.13,1988.8,Canada,North America
+14/2/24,Keith Watson,Printer,493.37,8,3946.96,3946.96,Germany,Europe
+14/7/24,Tracy Hahn,Monitor,452.79,7,3951.9,3169.53,China,Asia
+15/8/24,Kaitlyn Jackson,Tablet,356.62,7,2203.37,2496.34,India,Asia
+3/4/24,Gregory Rodriguez,Headphones,215.36,4,1237.15,861.44,France,Europe
+24/8/24,Mario Randolph,Camera,543.44,1,543.44,543.44,Australia,Oceania
+20/10/24,Ashley Hart,Monitor,153.56,7,1375.81,1074.92,USA,North America
+15/2/24,Daniel Lloyd,Laptop,1490.76,4,7896.58,5963.04,China,Asia
+26/7/24,Garrett Madden,Tablet,588.12,2,621.31,1176.24,Brazil,South America
+21/4/24,Eric Hodges MD,Smartwatch,385.62,1,332.67,385.62,Canada,North America
+29/8/24,Scott Johnson,Tablet,400.64,9,2464.99,3605.76,USA,North America
+28/7/24,Bill Miller,Printer,423.6,4,1694.4,1694.4,Germany,Europe
+6/11/24,Margaret Chan,Smartwatch,217.99,7,1857.34,1525.93,China,Asia
+3/7/24,Valerie Banks,Headphones,159.31,2,280.37,318.62,Canada,North America
+24/1/24,Michael Evans,Printer,259.87,6,913.37,1559.22,Germany,Europe
+14/2/24,Angela Valencia,Headphones,192.67,8,1741.73,1541.36,Canada,North America
+6/11/24,Carl Moreno,Laptop,1089.06,10,14379.82,10890.6,France,Europe
+30/7/24,James Jackson,Smartphone,518.51,4,2876.52,2074.04,USA,North America
+18/3/24,Patrick Allen,Camera,655.29,1,655.29,655.29,China,Asia
+4/7/24,Kelly Leonard,Headphones,143.42,3,430.26,430.26,Australia,Oceania
+18/4/24,April Coleman,Printer,337.41,6,1809.74,2024.46,Germany,Europe
+12/4/24,Taylor Craig,Printer,460.58,8,2880.45,3684.64,India,Asia
+12/3/24,Kaitlyn Tucker,Headphones,281.97,6,1863.66,1691.82,Canada,North America
+17/8/24,Melissa Wolf,Printer,419.04,8,2473.83,3352.32,Australia,Oceania
+10/2/24,Kathy Ross,Tablet,511.32,10,7043.9,5113.2,China,Asia
+11/1/24,Peter Harding,Laptop,820,8,6560,6560,China,Asia
+25/12/24,Diamond Davis,Monitor,164.8,4,899.36,659.2,USA,North America
+25/4/24,Jenna Yang,Smartwatch,313.52,5,1567.6,1567.6,Australia,Oceania
+20/8/24,Robert Ortega,Laptop,1035.37,6,5548.79,6212.22,China,Asia
+23/10/24,Chad Dixon,Headphones,129.11,2,223.96,258.22,China,Asia
+20/8/24,Jon Simpson,Camera,473.3,5,1366.95,2366.5,Australia,Oceania
+13/3/24,Aaron Lane,Laptop,1403.03,4,5612.12,5612.12,France,Europe
+23/4/24,April Taylor,Laptop,1493.44,1,1904.87,1493.44,Australia,Oceania
+8/5/24,Justin Ruiz,Camera,510.63,10,5106.3,5106.3,India,Asia
+14/4/24,Jeremy Avila,Smartphone,973.3,10,11417.06,9733,Canada,North America
+29/7/24,Ms. Erica Daniels DDS,Tablet,500.38,4,2747.6,2001.52,France,Europe
+31/8/24,Travis Ortega,Smartphone,902.52,9,10281.25,8122.68,France,Europe
+9/4/24,Andrew Hodge,Smartphone,444.99,9,4004.91,4004.91,France,Europe
+10/3/24,Darren Henry,Smartphone,695.23,10,4316.21,6952.3,India,Asia
+10/6/24,Barbara Johnson,Monitor,657.46,10,5232.63,6574.6,India,Asia
+25/12/24,Sonya Taylor,Smartphone,309.69,7,2167.83,2167.83,India,Asia
+29/10/24,Amanda Campbell,Headphones,80.27,1,115.17,80.27,USA,North America
+3/6/24,Brian Edwards,Monitor,339.84,5,1699.2,1699.2,Australia,Oceania
+11/11/24,Shannon Porter,Headphones,255.2,2,510.4,510.4,Germany,Europe
+13/12/24,Michael Lee,Printer,285.82,9,3735.92,2572.38,USA,North America
+25/4/24,Emily Perez,Monitor,613.46,9,6368.21,5521.14,China,Asia
+10/1/24,Ashley Hernandez,Tablet,286.74,3,860.22,860.22,Germany,Europe
+11/1/24,Jennifer Kennedy,Camera,507,1,419.39,507,India,Asia
+5/2/24,Bryan Wilkins,Camera,800.45,2,2165.88,1600.9,Australia,Oceania
+9/11/24,Steven Matthews,Tablet,345.65,9,2619.63,3110.85,China,Asia
+16/9/24,Daniel Hart,Printer,444.58,3,1950.39,1333.74,France,Europe
+13/10/24,Mallory Maddox,Smartphone,789.39,6,5839.45,4736.34,France,Europe
+1/2/24,William Reed,Monitor,692.4,1,961.57,692.4,Brazil,South America
+13/7/24,Robin Warren,Monitor,122.53,9,1102.77,1102.77,France,Europe
+21/1/24,Benjamin Juarez,Smartphone,357.37,9,3216.33,3216.33,India,Asia
+8/6/24,Roberto Donaldson,Smartphone,492.85,7,3449.95,3449.95,Brazil,South America
+29/5/24,Jonathan Michael,Laptop,880.86,5,2809.46,4404.3,Germany,Europe
+19/3/24,Laura Chung,Headphones,229.8,2,572.04,459.6,Brazil,South America
+11/7/24,Linda Case,Printer,416.14,2,832.28,832.28,China,Asia
+2/4/24,April Jones,Printer,218.88,10,2188.8,2188.8,China,Asia
+12/4/24,Valerie Ward,Tablet,273.01,1,356.29,273.01,France,Europe
+16/12/24,Benjamin Davis,Printer,152.48,8,1219.84,1219.84,China,Asia
+5/11/24,Katrina Moore,Tablet,582.73,3,970.62,1748.19,India,Asia
+20/7/24,Morgan Estrada,Printer,249.27,10,1479.36,2492.7,Canada,North America
+2/6/24,Paul Williams,Smartwatch,164.2,1,236.49,164.2,USA,North America
+10/11/24,Jasmine Koch,Headphones,208.7,1,208.7,208.7,Canada,North America
+17/7/24,Kimberly Martin,Headphones,240.27,2,631.92,480.54,Canada,North America
+19/6/24,Kelly Mcbride,Laptop,846.81,8,9531.68,6774.48,Australia,Oceania
+28/1/24,Rodney Wood,Smartphone,609.95,2,679.94,1219.9,Australia,Oceania
+22/11/24,John Leach,Camera,616.92,7,2165.63,4318.44,Brazil,South America
+30/8/24,Patricia Hunt,Tablet,309.84,4,1239.36,1239.36,China,Asia
+28/11/24,Joshua Fuller,Camera,1111.12,7,7777.84,7777.84,France,Europe
+19/10/24,Paula Noble,Monitor,131.75,10,1768.53,1317.5,Germany,Europe
+8/4/24,Erik Davila,Headphones,191.98,6,927.21,1151.88,France,Europe
+11/9/24,Chase Stevens,Camera,1122.39,7,7057.73,7856.73,USA,North America
+8/3/24,Seth Allen,Tablet,390.08,10,2541.44,3900.8,USA,North America
+16/5/24,Veronica Butler,Printer,307.81,2,615.62,615.62,Germany,Europe
+11/5/24,Ethan Kirk,Smartphone,428.93,6,2573.58,2573.58,Brazil,South America
+7/3/24,David Jones,Printer,340.13,9,4504.07,3061.17,Australia,Oceania
+13/11/24,Sarah Franklin,Tablet,278.91,4,1115.64,1115.64,India,Asia
+9/9/24,Suzanne Mathews,Tablet,208.75,8,865.72,1670,Brazil,South America
+23/12/24,Jennifer Andersen,Printer,483.38,6,2900.28,2900.28,USA,North America
+26/12/24,Heather Mcbride,Camera,1080.73,5,7531.42,5403.65,Canada,North America
+31/1/24,Catherine Barrera,Monitor,232.07,4,928.28,928.28,Canada,North America
+31/5/24,Teresa Vargas,Smartphone,584.48,8,2494.91,4675.84,Canada,North America
+28/7/24,Alexander Roberts,Tablet,574.61,9,5171.49,5171.49,Brazil,South America
+1/7/24,Crystal Hall,Printer,197.15,2,509.29,394.3,USA,North America
+16/6/24,Holly Morgan,Tablet,274.78,3,682.07,824.34,USA,North America
+20/4/24,Joseph Allen,Camera,639.94,3,2350.28,1919.82,India,Asia
+2/7/24,Gregory Navarro,Tablet,290.01,5,1918.6,1450.05,China,Asia
+30/10/24,Marie Parsons,Laptop,1114.21,2,1638.76,2228.42,India,Asia
+25/3/24,James Pham,Laptop,1495.83,9,13462.47,13462.47,France,Europe
+30/5/24,Julie Brown,Smartwatch,306.89,10,3068.9,3068.9,Brazil,South America
+4/3/24,Mitchell Gregory,Smartphone,591.45,6,3548.7,3548.7,Brazil,South America
+14/6/24,Angela Adkins,Smartwatch,169.65,3,346.33,508.95,USA,North America
+15/12/24,Robert Gallegos Jr.,Printer,300.14,2,467.9,600.28,China,Asia
+16/7/24,Roy Taylor,Smartwatch,220.73,8,2024.08,1765.84,Australia,Oceania
+6/6/24,Lorraine Mahoney,Tablet,353.51,2,901.79,707.02,Australia,Oceania
+8/3/24,Seth Bishop,Smartphone,683.67,7,2504.89,4785.69,USA,North America
+2/2/24,Michael Brady,Printer,394.26,6,1256.49,2365.56,USA,North America
+16/6/24,Melissa Roman,Printer,270.41,10,2704.1,2704.1,Australia,Oceania
+20/11/24,Gabriella Gomez,Camera,777.31,8,7115.09,6218.48,India,Asia
+3/5/24,Michael Francis,Camera,658.23,4,2632.92,2632.92,China,Asia
+8/12/24,James Ryan,Tablet,322.02,4,1288.08,1288.08,France,Europe
+23/3/24,George Powers,Camera,438.07,1,438.07,438.07,Canada,North America
+11/2/24,Kelly Ward,Monitor,149.73,8,1197.84,1197.84,France,Europe
+4/3/24,William Dominguez,Camera,661.88,7,6682.05,4633.16,USA,North America
+8/7/24,George Munoz,Headphones,169.45,3,574.93,508.35,India,Asia
+7/12/24,Kimberly Meyer,Laptop,1413.48,7,6866.03,9894.36,Brazil,South America
+14/5/24,Dr. Megan Carter,Smartphone,353.24,4,1412.96,1412.96,China,Asia
+21/11/24,Ethan Wilson,Tablet,393.22,9,1803.47,3538.98,India,Asia
+14/3/24,Francisco Avery,Tablet,393.86,4,2010.84,1575.44,Germany,Europe
+15/7/24,Jessica Thompson,Headphones,119.66,1,119.66,119.66,Brazil,South America
+20/6/24,Laura Aguilar,Printer,224.29,7,1570.03,1570.03,China,Asia
+29/7/24,Kristin Houston,Tablet,554.55,1,300.66,554.55,Brazil,South America
+31/1/24,April Austin,Smartwatch,295.78,6,1774.68,1774.68,Brazil,South America
+2/9/24,Cory Williams,Laptop,1243.29,6,6443.4,7459.74,France,Europe
+23/11/24,Jennifer Mooney,Printer,397.11,10,3971.1,3971.1,France,Europe
+23/9/24,Rebecca Smith,Printer,206.9,4,827.6,827.6,Australia,Oceania
+6/5/24,Erica Nielsen,Smartphone,599.69,4,1890.2,2398.76,Australia,Oceania
+11/8/24,Jeremy Taylor,Monitor,404.29,1,404.29,404.29,Germany,Europe
+29/9/24,Andre Murillo,Headphones,116.63,10,649.15,1166.3,India,Asia
+29/5/24,John Vazquez,Monitor,608.9,8,5947.46,4871.2,China,Asia
+13/8/24,Jeffrey Young Jr.,Camera,943.23,3,1527.09,2829.69,USA,North America
+3/8/24,Robin Carrillo,Printer,395.56,1,473.46,395.56,France,Europe
+23/1/24,Colton Gibson,Camera,846.63,3,2539.89,2539.89,Brazil,South America
+16/4/24,Nathaniel Baker,Smartwatch,224.21,5,1121.05,1121.05,France,Europe
+24/7/24,Jared Wilson,Headphones,199.51,3,598.53,598.53,India,Asia
+26/7/24,Richard Hughes,Tablet,477.39,10,4045.87,4773.9,Germany,Europe
+22/4/24,Joan Allen,Headphones,157.82,7,854.92,1104.74,Canada,North America
+21/2/24,Michael Zhang,Headphones,164.48,8,1315.84,1315.84,France,Europe
+14/10/24,Heather Cooke,Smartphone,909.67,1,1010.05,909.67,USA,North America
+26/4/24,Jessica English,Camera,1140.42,1,706.23,1140.42,Brazil,South America
+25/10/24,Rebecca Russell,Camera,616.04,8,5830.11,4928.32,Brazil,South America
+23/8/24,Sara Taylor,Printer,457.26,4,1556.84,1829.04,China,Asia
+27/6/24,Jodi Garza,Headphones,174.13,7,1356.87,1218.91,India,Asia
+30/10/24,Robert Davies,Laptop,885.9,7,4472.49,6201.3,Germany,Europe
+22/6/24,Anthony Beasley,Printer,358.12,5,1236.56,1790.6,India,Asia
+21/1/24,George Gallagher,Printer,395.98,4,1583.92,1583.92,Brazil,South America
+21/1/24,Rebecca Cain,Camera,953.2,4,3812.8,3812.8,France,Europe
+31/10/24,Brittany Daniel,Monitor,629.12,4,1387.07,2516.48,India,Asia
+7/5/24,Andrea Camacho,Smartphone,798.35,6,6266.95,4790.1,Canada,North America
+7/3/24,Peter Wilkinson,Tablet,443.07,2,886.14,886.14,Canada,North America
+15/5/24,Elizabeth Romero,Tablet,277.29,3,985,831.87,France,Europe
+21/9/24,Alison Robinson,Tablet,580.53,6,2483.28,3483.18,Australia,Oceania
+6/11/24,Melissa Mcclain,Camera,840.31,5,4201.55,4201.55,France,Europe
+4/9/24,Mary Hicks,Headphones,108.6,2,217.2,217.2,India,Asia
+10/1/24,Jennifer Weaver,Tablet,228.37,3,685.11,685.11,USA,North America
+9/3/24,Katherine Davenport,Monitor,156.59,10,959.42,1565.9,India,Asia
+5/6/24,Patrick Pearson,Tablet,360.69,5,1599.96,1803.45,China,Asia
+24/7/24,Joseph Olson,Smartwatch,174.35,10,2327.16,1743.5,Germany,Europe
+4/12/24,Barbara Powers,Camera,606.71,9,4310.27,5460.39,USA,North America
+22/7/24,Christopher Grant,Smartwatch,253.98,7,2349.31,1777.86,France,Europe
+19/12/24,Eric Smith,Smartphone,678.12,3,2034.36,2034.36,USA,North America
+26/10/24,Isabella Webster,Monitor,688.59,8,5508.72,5508.72,Germany,Europe
+14/8/24,Christopher Garcia,Headphones,130.45,6,868.12,782.7,USA,North America
+28/9/24,Denise Williams,Headphones,103.14,1,131.42,103.14,Brazil,South America
+15/5/24,Meredith Harris,Monitor,285.52,4,1142.08,1142.08,Australia,Oceania
+3/7/24,Christopher Mcdaniel,Smartwatch,285,5,1871.79,1425,Germany,Europe
+12/1/24,Andrea Barker,Tablet,302.02,5,1510.1,1510.1,Canada,North America
+17/10/24,Tammy Garcia,Monitor,615.42,9,5538.78,5538.78,USA,North America
+30/12/24,Lindsey Lee,Smartwatch,238.58,2,477.16,477.16,Brazil,South America
+30/5/24,Oscar Hart,Laptop,1316.99,5,3915.71,6584.95,France,Europe
+26/6/24,Ashley Woods,Headphones,278.74,7,2892.05,1951.18,Australia,Oceania
+12/2/24,Julie Flores,Printer,302.98,10,3029.8,3029.8,India,Asia
+9/4/24,Dennis Ward,Tablet,306.59,5,1313.39,1532.95,Canada,North America
+24/4/24,Ashley Johnson,Monitor,251.17,2,386.14,502.34,China,Asia
+3/7/24,Michelle Sparks,Printer,301.32,2,359.43,602.64,Germany,Europe
+15/4/24,Natalie Sanchez,Printer,361.01,5,1805.05,1805.05,Australia,Oceania
+5/7/24,Joshua Lee,Camera,966.35,3,4024.87,2899.05,Germany,Europe
+18/3/24,Heather Perry,Smartwatch,106.25,7,743.75,743.75,Germany,Europe
+17/11/24,Stephanie Pruitt,Headphones,219.43,1,270.96,219.43,Canada,North America
+11/5/24,Alexander Orr,Monitor,228,1,141.5,228,Australia,Oceania
+22/7/24,Christian Robinson,Camera,1066.64,3,3932.23,3199.92,USA,North America
+24/5/24,Jennifer Hampton,Monitor,161.54,8,1832.83,1292.32,Brazil,South America
+22/1/24,Dawn Adams,Monitor,111.15,3,461.82,333.45,Brazil,South America
+8/7/24,Mrs. Kari Miller,Tablet,561.64,8,4493.12,4493.12,Brazil,South America
+3/2/24,Brenda Patel,Monitor,394.94,6,2369.64,2369.64,USA,North America
+10/2/24,James Estrada,Smartphone,479.1,8,4301.51,3832.8,China,Asia
+6/6/24,Ashley Moore,Camera,1194.44,3,3583.32,3583.32,France,Europe
+24/2/24,Leah Crawford,Smartphone,714.11,6,4284.66,4284.66,China,Asia
+29/4/24,Maurice Wood,Headphones,159.45,3,559.43,478.35,Australia,Oceania
+18/4/24,Jessica Glenn,Camera,460.03,10,5142.95,4600.3,France,Europe
+3/1/24,Paul Brady,Printer,220.48,7,1543.36,1543.36,Brazil,South America
+27/9/24,Dana Stewart,Monitor,647.91,3,1943.73,1943.73,Canada,North America
+20/3/24,Allison Booker,Tablet,324.6,4,1298.4,1298.4,Australia,Oceania
+18/11/24,Tina Flores,Smartwatch,280.66,4,1122.64,1122.64,India,Asia
+28/6/24,Patrick Kane,Camera,891.59,3,2674.77,2674.77,China,Asia
+27/9/24,Joseph Nolan,Tablet,515.9,9,4643.1,4643.1,Brazil,South America
+11/12/24,Ronald Schultz,Printer,326.72,8,2613.76,2613.76,Canada,North America
+15/7/24,Jeremy Smith,Camera,1166.73,3,3500.19,3500.19,Germany,Europe
+27/12/24,Breanna Morris,Camera,701.98,9,6317.82,6317.82,France,Europe
+30/11/24,Yolanda Peters,Tablet,351.89,2,556.95,703.78,USA,North America
+8/4/24,James Shelton,Laptop,986.16,10,9861.6,9861.6,USA,North America
+21/1/24,Brittany Brown,Monitor,313.39,2,626.78,626.78,USA,North America
+20/10/24,Scott Walker,Printer,263.79,7,1320.61,1846.53,India,Asia
+12/3/24,Diana Mills,Camera,537.73,4,2150.92,2150.92,France,Europe
+20/3/24,Teresa Fritz,Tablet,551.62,7,3445.58,3861.34,Germany,Europe
+12/6/24,Sabrina Martinez,Headphones,77.31,8,354.85,618.48,Canada,North America
+1/9/24,Matthew Johnson,Smartphone,590.98,6,3545.88,3545.88,Brazil,South America
+27/4/24,William Thompson,Laptop,1472.61,5,8878.03,7363.05,China,Asia
+6/9/24,Jason Vazquez,Smartwatch,141.91,1,141.91,141.91,France,Europe
+4/9/24,Stephanie Rodriguez,Laptop,867.45,7,6072.15,6072.15,USA,North America
+4/8/24,Isaac Walker,Printer,235.37,5,1176.85,1176.85,China,Asia
+14/5/24,William Gonzalez,Smartphone,955.33,1,1206.83,955.33,France,Europe
+13/2/24,Stephanie Miller,Laptop,1438.99,10,14389.9,14389.9,Canada,North America
+27/3/24,Regina Freeman,Smartphone,863.54,4,4091.76,3454.16,India,Asia
+19/5/24,Richard Rowe,Headphones,236.12,9,2125.08,2125.08,Canada,North America
+16/4/24,Alisha Davis,Headphones,236.74,3,710.22,710.22,Germany,Europe
+12/7/24,John Cunningham,Smartphone,961.19,6,5087.4,5767.14,Brazil,South America
+2/5/24,Derrick Washington,Tablet,597.76,4,2391.04,2391.04,Brazil,South America
+28/5/24,David Hancock,Laptop,1258.96,8,5082.24,10071.68,Germany,Europe
+28/9/24,Elizabeth Johnston,Tablet,279.38,9,3132.55,2514.42,Canada,North America
+28/6/24,Robin Murray,Camera,921.35,9,8292.15,8292.15,Germany,Europe
+29/12/24,Lisa Richard,Headphones,243.27,7,931,1702.89,Germany,Europe
+28/2/24,James Williams,Headphones,196.19,6,1491.79,1177.14,Canada,North America
+26/11/24,Yvonne Lee,Camera,612.92,2,964.33,1225.84,USA,North America
+6/5/24,Rachael Reed,Smartphone,756.83,7,5297.81,5297.81,USA,North America
+4/2/24,David Barajas,Smartwatch,347.61,2,695.22,695.22,France,Europe
+10/5/24,James Mooney,Smartphone,718.1,1,594.86,718.1,Germany,Europe
+7/8/24,Ellen Mccormick,Laptop,1452.55,7,13555.48,10167.85,Australia,Oceania
+1/11/24,Daniel Jensen III,Printer,176.81,3,476.17,530.43,USA,North America
+21/5/24,Alexander Griffin,Smartwatch,182.27,2,478.44,364.54,Brazil,South America
+20/10/24,David Ford,Smartwatch,229.81,3,689.43,689.43,France,Europe
+16/11/24,Colleen Shaw,Smartphone,563.9,2,1362.9,1127.8,USA,North America
+29/1/24,Theresa Barker,Laptop,1105.06,9,12994.22,9945.54,Canada,North America
+9/1/24,Glenn Martinez,Laptop,881.05,10,6469.97,8810.5,Brazil,South America
+11/5/24,Alexandria Rodgers,Headphones,182.17,8,1991.6,1457.36,China,Asia
+3/11/24,Michelle Hanson,Tablet,395.84,9,3562.56,3562.56,Germany,Europe
+5/7/24,Scott Galloway,Smartphone,396.02,8,3168.16,3168.16,Australia,Oceania
+8/3/24,Diana Taylor,Printer,257.35,4,1029.4,1029.4,Germany,Europe
+12/4/24,David Hunt,Smartphone,549.85,5,2749.25,2749.25,Germany,Europe
+17/8/24,Christopher Fox,Tablet,238.31,3,542.86,714.93,Canada,North America
+1/12/24,Cynthia Greer,Monitor,621.86,8,4974.88,4974.88,USA,North America
+23/7/24,Justin Morrow,Tablet,235.12,3,461.1,705.36,Australia,Oceania
+31/12/24,Gregory Franco,Monitor,281.72,3,845.16,845.16,Germany,Europe
+7/3/24,Virginia Dixon,Smartwatch,332.27,10,3833.1,3322.7,China,Asia
+1/5/24,Nathan Ward,Laptop,949.29,5,2880.06,4746.45,Canada,North America
+15/6/24,Andrew Brown,Smartwatch,117.18,2,119.2,234.36,Australia,Oceania
+4/8/24,Michelle Chase,Tablet,293.03,3,443.58,879.09,France,Europe
+13/4/24,Michael Washington,Laptop,820.31,7,4363.09,5742.17,Germany,Europe
+18/2/24,Karen Neal,Camera,842.84,7,6963.4,5899.88,Canada,North America
+29/7/24,Brad Robinson,Smartphone,862.95,8,6903.6,6903.6,Brazil,South America
+10/4/24,Jordan Pena,Monitor,163.53,8,854.48,1308.24,Germany,Europe
+14/4/24,Julie Brown,Headphones,190.06,9,1710.54,1710.54,USA,North America
+15/12/24,Joseph Garcia,Smartphone,912.96,2,1825.92,1825.92,Germany,Europe
+24/2/24,Sarah Hernandez,Tablet,256.88,5,1785.35,1284.4,China,Asia
+7/2/24,Melissa Hammond,Laptop,1174.84,9,12740.05,10573.56,Germany,Europe
+10/8/24,Cameron Logan,Laptop,863.8,6,7356.12,5182.8,Australia,Oceania
+31/7/24,Daniel Brown,Laptop,1263.83,5,6319.15,6319.15,Brazil,South America
+15/2/24,Kevin Higgins,Headphones,147.29,8,1178.32,1178.32,India,Asia
+23/8/24,Jon Barry,Headphones,255.84,4,666.96,1023.36,India,Asia
+18/11/24,Mindy Chan,Printer,232.14,6,1613.4,1392.84,Canada,North America
+16/10/24,Tyler Clark,Camera,412.11,5,1792.43,2060.55,India,Asia
+1/12/24,Allen Smith,Laptop,1024.22,2,1063.66,2048.44,Germany,Europe
+6/6/24,Frank Cole,Headphones,179.97,8,2109.13,1439.76,USA,North America
+16/6/24,Debbie Rush,Smartphone,866.24,9,3943.72,7796.16,USA,North America
+19/4/24,Lisa Griffin,Monitor,626.56,2,707.76,1253.12,China,Asia
+12/2/24,Monique Santos,Laptop,1450.73,9,13056.57,13056.57,Australia,Oceania
+5/2/24,Stephanie Oneill,Camera,821.56,4,3286.24,3286.24,USA,North America
+3/1/24,Aaron Mitchell,Monitor,670.16,10,6701.6,6701.6,Brazil,South America
+21/5/24,Jennifer Tanner,Laptop,1213.37,3,3640.11,3640.11,France,Europe
+21/7/24,Robert Baker,Printer,403.48,4,1142.12,1613.92,India,Asia
+29/5/24,Alexis Tapia,Smartphone,401.15,9,3248.72,3610.35,France,Europe
+9/7/24,Olivia Reese,Monitor,392.34,1,341.66,392.34,Germany,Europe
+20/2/24,Donna Myers,Smartphone,498.17,1,580.59,498.17,India,Asia
+26/12/24,Brittany White,Smartwatch,342.73,10,3427.3,3427.3,USA,North America
+22/9/24,Mary Wallace,Camera,542.24,3,1254.87,1626.72,Canada,North America
+24/11/24,Billy Miller,Smartwatch,211.95,4,847.8,847.8,China,Asia
+26/3/24,Sandy Reyes,Camera,1016.45,5,5082.25,5082.25,France,Europe
+3/3/24,Christopher Cook,Printer,289.38,4,1583.2,1157.52,Canada,North America
+7/3/24,Shannon Cruz,Smartphone,321.32,9,4335.18,2891.88,Germany,Europe
+9/10/24,Erin Lozano,Monitor,399.18,4,1305.48,1596.72,India,Asia
+6/3/24,Tonya Jones,Tablet,449.43,7,2301.43,3146.01,Australia,Oceania
+19/9/24,Raymond Perry Jr.,Smartwatch,174.05,10,1565.09,1740.5,France,Europe
+30/1/24,Johnny Martin,Camera,481.83,9,4336.47,4336.47,China,Asia
+19/10/24,Cameron Garza,Smartphone,825.36,2,1650.72,1650.72,India,Asia
+21/11/24,Alexander Kim,Camera,525.96,3,2032.7,1577.88,Canada,North America
+1/6/24,Amber Hall,Smartphone,314.41,6,2513.4,1886.46,France,Europe
+29/10/24,Michael Hood,Laptop,1061.28,3,3183.84,3183.84,Brazil,South America
+11/8/24,Michael Anderson,Headphones,240.69,5,1203.45,1203.45,Canada,North America
+31/7/24,Kathleen Lee,Tablet,293.28,1,373.6,293.28,Brazil,South America
+23/10/24,Daniel Walker,Monitor,373.06,8,3659.53,2984.48,Australia,Oceania
+9/12/24,Crystal Shelton,Laptop,1015.42,1,1015.42,1015.42,France,Europe
+23/6/24,Andrew Miller,Smartwatch,134.49,7,1138.89,941.43,India,Asia
+31/3/24,Seth Fisher,Printer,441.68,5,2208.4,2208.4,China,Asia
+16/7/24,Isaac Walls,Smartwatch,315.26,7,1469.17,2206.82,India,Asia
+23/1/24,Frank Peterson,Smartwatch,246.21,9,2215.89,2215.89,France,Europe
+28/4/24,Lisa Martinez,Smartphone,559.62,10,4635.8,5596.2,India,Asia
+14/3/24,Taylor Gross,Camera,1159.92,8,8342.44,9279.36,Canada,North America
+20/5/24,Monique Richardson,Printer,216.25,10,2162.5,2162.5,Germany,Europe
+4/8/24,Sherry Hunt,Headphones,179.61,7,957.73,1257.27,Germany,Europe
+25/10/24,Christopher Kim,Laptop,1360.56,8,10884.48,10884.48,USA,North America
+6/9/24,Theresa Brown,Laptop,1321.01,5,3638.32,6605.05,Canada,North America
+28/3/24,Crystal Moody,Smartphone,325.31,1,480.47,325.31,China,Asia
+21/1/24,Randy Tyler,Smartwatch,348.02,1,406.03,348.02,USA,North America
+11/11/24,Anthony Stark,Camera,419.64,1,248.83,419.64,Brazil,South America
+12/11/24,Beth Roberts,Printer,397.66,6,1481.3,2385.96,Canada,North America
+30/9/24,Michael Gilbert,Smartphone,974.34,7,6820.38,6820.38,India,Asia
+7/6/24,Brittany Lee,Monitor,406.43,4,1166.82,1625.72,USA,North America
+15/12/24,Richard Wallace,Headphones,153.05,2,405.88,306.1,Australia,Oceania
+12/6/24,Alexander Rivera,Headphones,72.23,1,91.58,72.23,Germany,Europe
+25/3/24,Katie Navarro,Printer,235.04,3,1024.92,705.12,Canada,North America
+17/4/24,Dominique Crawford,Tablet,428.51,4,2024.62,1714.04,France,Europe
+4/1/24,Thomas Rosales,Headphones,165.79,3,497.37,497.37,France,Europe
+18/1/24,Brandon Sanchez,Monitor,609.64,8,6268.35,4877.12,Australia,Oceania
+3/3/24,Nicole Hughes,Smartwatch,201.61,10,2016.1,2016.1,India,Asia
+8/1/24,Cody Garcia,Camera,843.51,2,1687.02,1687.02,Australia,Oceania
+27/12/24,Kyle West,Smartwatch,358.37,1,450.93,358.37,France,Europe
+6/4/24,Allen Fernandez,Headphones,178.82,8,1147.38,1430.56,France,Europe
+21/4/24,Amanda Collins,Laptop,1491.52,7,10440.64,10440.64,Brazil,South America
+8/10/24,Rachel Simon,Camera,739.44,9,5543.69,6654.96,China,Asia
+2/4/24,James Paul,Smartwatch,335.28,1,301.3,335.28,Germany,Europe
+10/8/24,Emily Wong,Monitor,597.75,10,5977.5,5977.5,China,Asia
+12/3/24,Mason Chambers,Smartwatch,152.55,7,1487.39,1067.85,Canada,North America
+12/8/24,Melissa Carlson,Smartphone,446.73,1,376.03,446.73,Australia,Oceania
+13/1/24,Tara Finley,Smartphone,865.81,9,7792.29,7792.29,USA,North America
+18/1/24,Matthew Perez,Headphones,118.48,8,494.55,947.84,Brazil,South America
+26/3/24,Richard Moran,Smartphone,710.71,8,4562.84,5685.68,India,Asia
+5/1/24,Thomas Gilbert,Tablet,347.73,5,1292.57,1738.65,Brazil,South America
+8/4/24,John Wilson,Camera,494.62,10,4243.2,4946.2,Brazil,South America
+29/7/24,Steve Shaw,Monitor,306.23,7,1112.28,2143.61,China,Asia
+22/2/24,Lisa Clark,Printer,242.31,6,1163.81,1453.86,Brazil,South America
+27/8/24,John House,Monitor,380.01,3,658.96,1140.03,USA,North America
+20/10/24,Fernando Newton,Smartphone,485.75,10,4857.5,4857.5,China,Asia
+26/1/24,Ryan Lewis,Camera,1094.88,4,4379.52,4379.52,USA,North America
+23/1/24,Dustin Salinas,Smartphone,881.4,9,9765.55,7932.6,Australia,Oceania
+23/12/24,Nicholas Holmes,Smartwatch,368.26,8,3963.45,2946.08,Germany,Europe
+10/10/24,Michael Jones,Monitor,413.69,7,3566.61,2895.83,USA,North America
+3/8/24,Joseph Ross,Headphones,238.69,7,2124.67,1670.83,Germany,Europe
+29/1/24,Kimberly King,Smartphone,948.36,4,3055.18,3793.44,USA,North America
+18/9/24,Scott Monroe,Camera,1162.22,5,4787.61,5811.1,Germany,Europe
+8/9/24,Shelly Hanna,Monitor,565.14,10,4176.6,5651.4,India,Asia
+29/3/24,Jessica Archer,Smartphone,489.61,5,2448.05,2448.05,USA,North America
+26/12/24,Teresa Floyd,Camera,466,4,1864,1864,USA,North America
+28/5/24,Mary Olson,Printer,457.6,2,623.4,915.2,Brazil,South America
+11/3/24,Christopher Wilson,Laptop,1358.57,4,5434.28,5434.28,Brazil,South America
+7/7/24,Misty Brown,Monitor,196.18,10,1961.8,1961.8,France,Europe
+25/1/24,Jean Young,Smartphone,667.56,9,6975.76,6008.04,India,Asia
+23/8/24,Sergio Rodriguez,Printer,319.56,8,2170.65,2556.48,USA,North America
+13/7/24,Chad May,Smartwatch,314.12,4,1545.15,1256.48,Australia,Oceania
+23/6/24,Alexa Ramos,Camera,1019.66,3,4463.56,3058.98,China,Asia
+19/1/24,Anna Smith,Headphones,107.29,4,318.89,429.16,China,Asia
+2/5/24,Jeffrey Leonard,Monitor,479.39,5,3204.93,2396.95,Australia,Oceania
+26/12/24,Michael Larson,Monitor,349.63,7,3498.47,2447.41,Canada,North America
+17/5/24,Daniel Perez,Monitor,216.3,5,925.48,1081.5,Brazil,South America
+8/12/24,Andrew Brown,Tablet,599.21,9,5392.89,5392.89,Canada,North America
+18/5/24,John Carney,Smartphone,342,4,1610.98,1368,India,Asia
+27/8/24,Briana Mann,Headphones,165.86,4,766.93,663.44,USA,North America
+22/7/24,Christopher Saunders,Monitor,445,10,5884.81,4450,Germany,Europe
+17/12/24,Mr. Gregory Hughes,Printer,249.68,9,3020.35,2247.12,Brazil,South America
+10/6/24,Gregory Long,Laptop,1388.52,6,8331.12,8331.12,USA,North America
+13/5/24,Henry Thompson,Smartwatch,235.4,1,293.49,235.4,India,Asia
+23/8/24,Lori Fitzgerald,Laptop,989.53,5,4947.65,4947.65,USA,North America
+7/6/24,Blake Collins,Smartphone,951.87,10,6012.26,9518.7,Canada,North America
+11/10/24,Jose Bailey,Laptop,1128.85,10,11288.5,11288.5,Germany,Europe
+10/4/24,Cassandra Lewis,Headphones,88.17,9,793.53,793.53,Australia,Oceania
+29/10/24,Brett Short,Smartwatch,265.99,5,725.55,1329.95,Australia,Oceania
+16/5/24,William Mays,Printer,164.08,9,2016.36,1476.72,Canada,North America
+23/9/24,Mary Reed,Printer,247.89,1,207.72,247.89,India,Asia
+28/12/24,Andrea Kennedy,Headphones,114.98,10,931.3,1149.8,France,Europe
+21/1/24,James Gordon,Tablet,297.76,2,595.52,595.52,Germany,Europe
+9/10/24,Meghan Hartman,Headphones,250.39,8,2254.17,2003.12,Germany,Europe
+30/11/24,Bruce Velasquez,Monitor,324.35,4,1709.93,1297.4,USA,North America
+22/9/24,Paula Brown,Laptop,1284.44,10,6686.88,12844.4,India,Asia
+25/4/24,Joy Ayers,Smartwatch,180.61,2,312.7,361.22,India,Asia
+22/11/24,Katelyn Glover,Laptop,889.25,7,6921.61,6224.75,France,Europe
+6/6/24,Renee Thompson,Smartphone,359.89,8,1928.11,2879.12,France,Europe
+8/9/24,Kenneth Atkins,Camera,1035.48,1,1035.48,1035.48,Canada,North America
+4/12/24,Caroline Wright,Smartphone,602.71,2,686.32,1205.42,Australia,Oceania
+8/5/24,Monica Diaz,Headphones,90.06,10,900.6,900.6,Brazil,South America
+6/2/24,David Lewis,Laptop,1020.96,5,5877.21,5104.8,France,Europe
+17/7/24,Christian Banks,Smartphone,599.59,6,3597.54,3597.54,USA,North America
+2/7/24,Amanda Morales,Smartphone,509.41,6,2640.49,3056.46,India,Asia
+4/6/24,Brandon Cooper,Headphones,287.29,7,2344.34,2011.03,India,Asia
+8/3/24,Tonya Patton,Monitor,484.68,2,1238.28,969.36,Australia,Oceania
+30/7/24,Trevor Sims,Smartwatch,334.2,2,741.11,668.4,Australia,Oceania
+2/8/24,Brian Greene,Printer,212.6,7,1488.2,1488.2,Brazil,South America
+20/8/24,Trevor Hamilton,Monitor,414.67,6,2488.02,2488.02,Germany,Europe
+21/4/24,Justin Williams,Laptop,831.76,10,6537.22,8317.6,India,Asia
+22/2/24,Emily Lee,Printer,206.18,1,251.3,206.18,China,Asia
+1/9/24,Jason Romero,Headphones,196.02,6,1044.1,1176.12,Canada,North America
+11/11/24,Shelby Thompson,Monitor,176.36,2,352.72,352.72,China,Asia
+13/2/24,John Long,Camera,426.65,6,1967.77,2559.9,Brazil,South America
+27/5/24,Latasha Smith,Printer,152,8,1093.58,1216,USA,North America
+8/1/24,Pamela Holmes,Printer,328.89,5,1644.45,1644.45,India,Asia
+20/6/24,Stephanie Soto,Printer,457.41,10,3791.19,4574.1,Canada,North America
+22/6/24,Cynthia Sanders,Laptop,962.13,3,2596.48,2886.39,France,Europe
+11/4/24,Stephanie Rodriguez,Camera,613.18,1,330.3,613.18,France,Europe
+14/2/24,Tara Webb,Camera,901.48,1,487.34,901.48,Brazil,South America
+7/7/24,Candace Washington,Smartphone,718.51,5,3592.55,3592.55,France,Europe
+13/4/24,Ryan Decker,Monitor,101.32,3,440.89,303.96,Canada,North America
+6/12/24,Brenda Price,Camera,539.13,10,5943.29,5391.3,Germany,Europe
+28/11/24,Michelle Gallegos,Headphones,121.09,9,1443.26,1089.81,Canada,North America
+4/1/24,Jesus Hogan,Camera,1126.59,3,2090.59,3379.77,Australia,Oceania
+5/6/24,Tina King MD,Smartwatch,170.45,7,1401.07,1193.15,France,Europe
+6/3/24,Maria Lopez,Monitor,279.84,2,389.71,559.68,Canada,North America
+17/12/24,Sarah Ewing,Camera,788.03,3,2364.09,2364.09,Australia,Oceania
+18/11/24,Laurie Hunt,Smartwatch,254.23,3,762.69,762.69,Canada,North America
+24/10/24,Eric Grant,Tablet,549.59,6,3939.23,3297.54,China,Asia
+22/1/24,Richard Lyons,Smartphone,866.74,5,5741.87,4333.7,Brazil,South America
+13/12/24,Donna Contreras,Camera,752.08,1,752.08,752.08,Canada,North America
+10/9/24,Sherry Hernandez,Headphones,104.46,9,940.14,940.14,USA,North America
+12/7/24,Madison Savage,Smartphone,971.51,6,3163.56,5829.06,China,Asia
+17/6/24,Anthony Beck,Headphones,85.49,10,854.9,854.9,Brazil,South America
+19/5/24,Mark Wang,Tablet,275.31,2,550.62,550.62,Canada,North America
+22/1/24,Sherry Vargas,Monitor,418.01,3,1773.37,1254.03,China,Asia
+21/11/24,Steven Cox,Smartwatch,386.5,4,1194.95,1546,Australia,Oceania
+28/6/24,Miranda Rivera,Headphones,193.69,1,216.64,193.69,Australia,Oceania
+2/7/24,Darren Rogers,Laptop,901.29,5,4506.45,4506.45,China,Asia
+11/2/24,Kristopher Mcmillan,Smartphone,950.92,5,6522.1,4754.6,USA,North America
+10/12/24,Jacob Chung,Camera,566.98,7,3968.86,3968.86,China,Asia
+27/11/24,Michelle Arnold,Laptop,1157.87,5,5789.35,5789.35,Australia,Oceania
+14/2/24,Stephanie Cox,Monitor,420.96,1,420.96,420.96,Brazil,South America
+31/3/24,John Lee,Tablet,240.64,9,2165.76,2165.76,Germany,Europe
+14/4/24,Pamela Faulkner,Headphones,203.26,10,2254.34,2032.6,USA,North America
+19/6/24,Tiffany Smith,Laptop,859.7,8,6877.6,6877.6,Germany,Europe
+28/11/24,Allison Butler,Smartwatch,146.48,2,397.32,292.96,Brazil,South America
+23/7/24,Tony Barber,Tablet,507.72,6,1830.42,3046.32,Brazil,South America
+3/7/24,Dennis Mccarthy,Laptop,1108.65,6,5099,6651.9,Australia,Oceania
+1/6/24,Sara Ferguson,Printer,422.04,10,4220.4,4220.4,France,Europe
+5/5/24,Douglas Everett,Tablet,378.27,4,1513.08,1513.08,France,Europe
+17/10/24,Julia Walsh,Headphones,190.34,2,246.32,380.68,USA,North America
+20/7/24,Kimberly Barnes,Smartwatch,315.79,7,2210.53,2210.53,USA,North America
+28/9/24,Jessica Schmidt,Monitor,506.63,2,716.96,1013.26,China,Asia
+5/10/24,Kevin Kent,Camera,824.47,6,6230.3,4946.82,China,Asia
+26/8/24,Elaine Johnson,Headphones,50.93,2,80.74,101.86,Brazil,South America
+27/6/24,Mr. Grant Leonard,Monitor,137.3,5,686.5,686.5,Germany,Europe
+30/3/24,Cody Pena,Laptop,968.53,8,7748.24,7748.24,India,Asia
+18/6/24,Andre Mendoza,Laptop,967.16,5,4835.8,4835.8,France,Europe
+11/3/24,Erik Collins,Smartphone,670.52,8,8035.76,5364.16,Brazil,South America
+18/7/24,Grant Cox,Laptop,1324.16,9,6592.76,11917.44,India,Asia
+28/9/24,Patricia Jones,Smartphone,813.26,6,4879.56,4879.56,USA,North America
+27/6/24,Robert Rodriguez,Laptop,983.87,9,6562.63,8854.83,China,Asia
+23/3/24,Angelica Taylor,Monitor,477.28,5,2983.92,2386.4,Australia,Oceania
+30/11/24,Kelly Charles,Laptop,989.68,2,2358.92,1979.36,Germany,Europe
+11/5/24,Christine Berger,Camera,712.42,7,6425.59,4986.94,Germany,Europe
+8/6/24,Diane Hahn,Laptop,1174.41,7,7057.75,8220.87,France,Europe
+25/12/24,Samantha Peters,Monitor,129.4,7,618.13,905.8,Australia,Oceania
+11/7/24,Paul Taylor,Camera,860.82,5,2231.09,4304.1,China,Asia
+16/2/24,Angela Castaneda,Smartphone,490.15,9,4411.35,4411.35,India,Asia
+27/8/24,Christopher Gilbert,Printer,214.26,3,435.91,642.78,India,Asia
+7/1/24,Betty Owens,Printer,257.81,5,1019.14,1289.05,China,Asia
+30/9/24,Melissa Scott,Laptop,920.15,4,5141.19,3680.6,Brazil,South America
+24/2/24,Renee Williams,Camera,826.43,5,4132.15,4132.15,Brazil,South America
+17/12/24,Renee Klein,Smartphone,983.3,10,9833,9833,Canada,North America
+9/1/24,Adam Stewart,Camera,874.26,1,874.26,874.26,France,Europe
+19/7/24,Daniel Torres,Monitor,657.34,2,1961.46,1314.68,Canada,North America
+2/9/24,Jeremy Morris,Printer,219.53,1,279.56,219.53,China,Asia
+3/8/24,Caitlin Graham,Smartphone,951.57,1,508.56,951.57,India,Asia
